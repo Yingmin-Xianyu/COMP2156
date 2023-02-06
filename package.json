@@ -1,0 +1,20 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "Yingmin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: no tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yingmin-Xianyu/COMP2156.git"
+  },
+  "keywords": [],
+  "author": "yingmin Xianyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yingmin-Xianyu/COMP2156/issues"
+  },
+  "homepage": "https://github.com/Yingmin-Xianyu/COMP2156#readme"
+}
